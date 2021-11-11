@@ -1,6 +1,6 @@
 ## Fala lek ! Eu sou o Paulo Victor 👋
 - 🔭 Hoje estou procurando meu primeiro trabalho 
-- 🌱 Estudando HTML / CSS
+- 🌱 Estudando HTML / CSS / JS / React JS
 - 😄 Pronomes: Ele/Dele
 
 <div align="center">
