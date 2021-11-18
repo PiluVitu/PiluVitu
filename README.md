@@ -1,4 +1,5 @@
-## Fala lek ! Eu sou o Paulo Victor 👋
+## Fala lek ! Eu sou o Paulo Victor estudante de Sistemas de Informação, focado em aprender o maximo sobre desenvolvimento web a fim de levar isso como trabalho.
+#Vamopracima👋
 - 🔭 Hoje estou procurando meu primeiro trabalho 
 - 🌱 Estudando HTML / CSS / JS / React JS
 - 😄 Pronomes: Ele/Dele
