@@ -1,4 +1,5 @@
-## Fala lek ! Eu sou o Paulo Victor Programador, atualmente cursando 4º Período de Sistemas de Informação na FADIC Wyden e Trilha Discover (Curso focado na Programação Web) na Rocketseat, foco em me tornar um Desenvolvedor Full Stack.
+## Fala lek ! Eu sou o Paulo Victor 
+Programador, atualmente cursando 4º Período de Sistemas de Informação na FADIC Wyden e Trilha Discover (Curso focado na Programação Web) na Rocketseat, foco em me tornar um Desenvolvedor Full Stack.
 
 Apaixonado por desenvolver aplicações que possam ajudar outras pessoas, planejo trabalhar com Node JS, React JS, Python e outras tecnologias que englobam o Desenvolvimento Full Stack.
 
