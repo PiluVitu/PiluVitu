@@ -7,7 +7,7 @@ Tenho uma vontade enorme de aprender, busco saber mais que o dia anterior sempre
 
 - 🔭 Hoje estou procurando meu primeiro trabalho 
 - 📖 Estudando `HTML` `CSS`
-- 🤔 Interessado em `JS` `React JS` `Node JS`
+- 🤔 Interessado em `JS` `React JS` `Node JS` `Python` `Elixir`
 - 😄 Pronomes: Ele/Dele
 
 <div align="center">
