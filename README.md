@@ -6,8 +6,8 @@ Apaixonado por desenvolver aplicações que possam ajudar outras pessoas, planej
 Tenho uma vontade enorme de aprender, busco saber mais que o dia anterior sempre almejando uma evolução constante.
 
 - 🔭 Hoje estou procurando meu primeiro trabalho 
-- 📖 Estudando `HTML` `CSS`
-- 🤔 Interessado em `JS` `React JS` `Node JS` `Python` `Elixir`
+- 📖 Estudando `HTML` `CSS` `Python`
+- 🤔 Interessado em `JS` `React JS` `Node JS` `Elixir`
 - 😄 Pronomes: Ele/Dele
 
 <div align="center">
