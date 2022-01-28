@@ -6,8 +6,8 @@ Apaixonado por desenvolver aplicações que possam ajudar outras pessoas, planej
 Tenho uma vontade enorme de aprender, busco saber mais que o dia anterior sempre almejando uma evolução constante.
 
 - 🔭 Hoje estou procurando meu primeiro trabalho 
-- 📖 Estudando `HTML` `CSS` `Python`
-- 🤔 Interessado em `JS` `React JS` `Node JS` `Elixir`
+- 📖 Estudando `HTML` `CSS` `JS` `Python`
+- 🤔 Interessado em `React JS` `Node JS` 
 - 😄 Pronomes: Ele/Dele
 
 <div align="center">
@@ -16,6 +16,8 @@ Tenho uma vontade enorme de aprender, busco saber mais que o dia anterior sempre
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiluVitu&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
+  ##
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Pilu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pilu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -28,7 +30,8 @@ Tenho uma vontade enorme de aprender, busco saber mais que o dia anterior sempre
 
   ##
   
-  <div> 
+<div> 
   <a href = "mailto:paulo.tspi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pilu-vitu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   </div>
+  <a href="https://www.linkedin.com/in/pilu-vitu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "https://instagram.com/pilu.dev?utm_medium=copy_link"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
