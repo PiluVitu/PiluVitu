@@ -3,7 +3,7 @@ Programador, atualmente cursando 4º Período de Sistemas de Informação na FAD
 
 Apaixonado por desenvolver aplicações que possam ajudar outras pessoas, planejo trabalhar com Node JS, React JS, Python e outras tecnologias que englobam o Desenvolvimento Full Stack.
 
-Tenho uma vontade enorme de aprender, busco saber mais que o dia anterior sempre almejando uma evolução constante.
+Tenho uma vontade enorme de aprender, busco saber mais que o dia anterior almejando uma evolução constante.
 
 - 🔭 Hoje estou procurando meu primeiro trabalho 
 - 📖 Estudando `HTML` `CSS` `JS` `Python`
