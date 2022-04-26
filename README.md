@@ -1,12 +1,12 @@
 ## Fala lek ! Eu sou o Paulo Victor 
-Programador, atualmente cursando 4º Período de Sistemas de Informação na FADIC Wyden e Trilha Discover (Curso focado na Programação Web) na Rocketseat, foco em me tornar um Desenvolvedor Full Stack.
+Programador, atualmente cursando 1º Período de Ciências da Computação na Universidade Descomplica e Explorer (Programa de treinamento focado na Programação Web) na Rocketseat, almejo me tornar um Desenvolvedor Full Stack.
 
 Apaixonado por desenvolver aplicações que possam ajudar outras pessoas, planejo trabalhar com Node JS, React JS, Python e outras tecnologias que englobam o Desenvolvimento Full Stack.
 
-Tenho uma vontade enorme de aprender, busco saber mais que o dia anterior almejando uma evolução constante.
+Tenho uma vontade enorme de aprender, busco saber mais que o dia anterior sempre almejando uma evolução constante.
 
 - 🔭 Hoje estou procurando meu primeiro trabalho 
-- 📖 Estudando `HTML` `CSS` `JS` `Python`
+- 📖 Estudando `HTML` `CSS` `JS`
 - 🤔 Interessado em `React JS` `Node JS` 
 - 😄 Pronomes: Ele/Dele
 
