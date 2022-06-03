@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/PiluVitu/PiluVitu/blob/main/Banner-Github-Readme.png" alt="my banner">
+<a href="https://linktr.ee/PiluVitu"><img width="100%" src="https://github.com/PiluVitu/PiluVitu/blob/main/Banner-Github-Readme.png" alt="my banner"><a>
 
 Programmer, currently attending the 1st period of Computer Science at Descomplica University and Explorer (Training program focused on Web Programming) at Rocketseat, I aim to become a Full Stack Developer.
 
