@@ -1,8 +1,14 @@
 <a href="https://linktr.ee/PiluVitu"><img width="100%" src="https://github.com/PiluVitu/PiluVitu/blob/main/Banner-Github-Readme.png" alt="my banner"><a>
 
-Programmer, currently attending the 1st period of Computer Science at Descomplica University and Explorer (Training program focused on Web Programming) at Rocketseat, I aim to become a Full Stack Developer.
+Front End JavaScript Developer.
 
-I have a huge desire to learn, I seek to know more than the day before, always aiming for constant evolution.
+I currently work as a freelancer developing LandingPages.
+
+Passionate about developing applications that can help other people and make their daily lives easier.
+
+I have experience in the area of maintenance and optimization of desktops, resolutions of software issue in android.
+
+I have a huge desire to learn, I always seek to know more than the day before, aiming for constant evolution, focused on solving problems and dedicated to always delivering my best.
 
 ## 💫 Liitle Bit More About Me
 <p>🌱 I'm currently learning Java Script</p>
