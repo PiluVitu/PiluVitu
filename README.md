@@ -1,4 +1,4 @@
-<a href="https://linktr.ee/PiluVitu"><img width="100%" src="https://github.com/PiluVitu/PiluVitu/blob/main/Banner-Github-Readme.png" alt="my banner"><a>
+<a href="https://piluvitu.dev"><img width="100%" src="https://github.com/PiluVitu/PiluVitu/blob/main/Banner-Github-Readme.png" alt="my banner"><a>
 
 Front End JavaScript Developer.
 
