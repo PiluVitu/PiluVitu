@@ -1,42 +1,49 @@
-<a href="https://piluvitu.dev"><img width="100%" src="https://github.com/PiluVitu/PiluVitu/blob/main/Banner-Github-Readme.png" alt="my banner"><a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BF3636&height=150&section=header" width="100%"/>
 
-Front End JavaScript Developer.
+```js
+class PiluVitu {
+  constructor(){
+    this.name = 'Paulo Victor'
+    this.area = 'Front-End'
+    this.stacks = {
+      frontEnd: ['JavaScript', 'ReactJS', 'TailwindCss'],
+      backEnd: ['NodeJS', 'Express'],
+      vsc: ['Git', 'GitHub'],
+      test: ['Jest']
+    }
+    this.interestedIn = ['Web development', 'Accessibility']
+    this.portifolio = 'piluvitu.dev'
+  }
 
-I currently work as a freelancer developing LandingPages.
+  hello(){
+    return(
+      `Olá meu nome é ${this.name}, estou atualmente 
+      como ${this.area} Developer.
 
-Passionate about developing applications that can help other people and make their daily lives easier.
+Trabalho com ${this.stacks.frontEnd[0]}, 
+utilizando o ${this.stacks.frontEnd[1]} para criar sites 
+interativos, estilizo eles com a ajuda do ${this.stacks.frontEnd[2]}. 
 
-I have experience in the area of maintenance and optimization of desktops, resolutions of software issue in android.
+Utilizo o ${this.stacks.vsc[0]} para versionar meus códigos e uso o 
+${this.stacks.vsc[1]} para hospeda-los.
 
-I have a huge desire to learn, I always seek to know more than the day before, aiming for constant evolution, focused on solving problems and dedicated to always delivering my best.
+Caso você queria ver alguns trabalhos meus, 
+acesse: ${this.portifolio`)
+}}
+const piluvitu = new PiluVitu()
 
-## 💫 Liitle Bit More About Me
-<p>🌱 I'm currently learning Java Script</p>
-<p>💬 Ask me about Front-End Development</p>
+alert(piluvitu.hello())
 
-## 💻 Skills
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="margin-bottom: 4px;" height="30px">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin-bottom: 4px;" height="30px">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
-  <img src=	"https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" style="margin-bottom: 4px;" height="30px">
-</p>
+```
 
-## 👥 Connect With Me
-<p>
-<a href="https://linkedin.com/in/pilu-vitu"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://twitter.com/PiluVitu"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://twitter.com/PiluVitu#8819"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://www.instagram.com/pilu.dev"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://codepen.io/piluvitu"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-</p>
 
-## 📊 Github Status
+
 <div align="center">
-  <a href="https://github.com/PiluVitu">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PiluVitu&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiluVitu&layout=compact&langs_count=7&theme=gotham"/>
-  <img height="160em" width="100%"src="https://github-readme-streak-stats.herokuapp.com/?user=PiluVitu&theme=dark">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=piluvitu&show_icons=true&count_private=true&hide_border=true&title_color=BF3636&icon_color=D9A282&text_color=BF7154&bg_color=0d1117" alt="Danuzia github stats"/>  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piluvitu&layout=compact&hide_border=true&title_color=BF3636&text_color=BF7154&bg_color=0d1117" />
+  <img height="160em" width="100%"src="https://streak-stats.demolab.com?user=piluvitu&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&stroke=734949&ring=D9A282&fire=D9A282&currStreakLabel=EB5454&background=EB545400&sideNums=D9A282&sideLabels=EB5454&dates=EB5454&excludeDaysLabel=BF3636&currStreakNum=D9A282">
 </div>
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BF3636&height=150&section=footer" width="100%"/>
