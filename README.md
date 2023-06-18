@@ -14,25 +14,7 @@ class PiluVitu {
     this.interestedIn = ['Web development', 'Accessibility']
     this.portifolio = 'piluvitu.dev'
   }
-
-  hello(){
-    return(
-      `Olá meu nome é ${this.name}, estou atualmente 
-      como ${this.area} Developer.
-
-Trabalho com ${this.stacks.frontEnd[0]}, 
-utilizando o ${this.stacks.frontEnd[1]} para criar sites 
-interativos, estilizo eles com a ajuda do ${this.stacks.frontEnd[2]}. 
-
-Utilizo o ${this.stacks.vsc[0]} para versionar meus códigos e uso o 
-${this.stacks.vsc[1]} para hospeda-los.
-
-Caso você queria ver alguns trabalhos meus, 
-acesse: ${this.portifolio`)
 }}
-const piluvitu = new PiluVitu()
-
-alert(piluvitu.hello())
 ```
 
 <div align="center">
