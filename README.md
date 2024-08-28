@@ -1,20 +1,43 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BF3636&height=130&section=header" width="100%"/>
 
-```js
-class PiluVitu {
-  constructor(){
-    this.name = 'Paulo Victor'
-    this.area = 'Front-End'
-    this.stacks = {
-      frontEnd: ['JavaScript', 'ReactJS', 'TailwindCss'],
-      backEnd: ['NodeJS', 'Express'],
-      vsc: ['Git', 'GitHub'],
-      test: ['Jest']
-    }
-    this.interestedIn = ['Web development', 'Accessibility']
-    this.portifolio = 'piluvitu.dev'
-  }
-}}
+```golang
+package main
+
+import "fmt"
+
+type PiluVitu struct {
+	Name         string
+	Area         string
+	Stacks       Stacks
+	InterestedIn []string
+	Portifolio   string
+}
+
+type Stacks struct {
+	Containers     []string
+	Monitoring     []string
+	Pipilines      []string
+	CloudProviders []string
+	IAC            []string
+}
+
+func main() {
+	piluVitu := PiluVitu{
+		Name: "Paulo Victor",
+		Area: "DevOps",
+		Stacks: Stacks{
+			Containers:     []string{"Docker", "Kubernets"},
+			Monitoring:     []string{"Prometheus", "Grafana"},
+			Pipilines:      []string{"GitHub Actions", "Jenkins"},
+			CloudProviders: []string{"AWS"},
+			IAC:            []string{"Terraform", "Ansible", "ArgoCD"},
+		},
+		InterestedIn: []string{"DevOps", "Golang"},
+		Portifolio:   "https://piluvitu.dev",
+	}
+
+	fmt.Println(piluVitu)
+}
 ```
 
 <div align="center">
